@@ -9,4 +9,4 @@ This project analyzes an e-commerce customer dataset to uncover purchasing behav
 3. **Strategic Recommendation:** The business should focus loyalty rewards and promotional incentives on users approaching their second or third year of membership to maximize customer lifetime value.
 
 ## Live App Link
-- [View Live Streamlit Dashboard](PASTE_YOUR_STREAMLIT_LINK_HERE)
+- [View Live Streamlit Dashboard] https://ecommerce-customer-eda-fxddyftri8ydaqmiwpq85a.streamlit.app/
